@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1507521628349-6e9b27515384?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80'); /* Фентезійний фон */
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+h1 {
+    font-size: 3em;
+    text-shadow: 2px 2px 5px #000;
+}
+
+#intro {
+    text-align: center;
+    padding: 100px 20px;
+    background: rgba(0, 0, 0, 0.5);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    text-shadow: 1px 1px 3px #000;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
